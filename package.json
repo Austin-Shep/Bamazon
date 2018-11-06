@@ -1,0 +1,23 @@
+{
+  "name": "Bamazon",
+  "version": "1.0.0",
+  "description": "CLI Shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Austin-Shep/Bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Austin-Shep/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Austin-Shep/Bamazon#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
